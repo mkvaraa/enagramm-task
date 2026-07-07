@@ -451,3 +451,7 @@ Thumbs.db
 
 CLAUDE.md 
 AGENTS.md
+
+# Docker
+docker-compose.override.yml
+.env
